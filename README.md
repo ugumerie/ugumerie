@@ -7,8 +7,10 @@
 - Angular  
 - Firebase Tools  
 - Semantic Kernel (AI)
+- Microsoft Agentic Framework
 
 **Featured Projects:**  
+- [software-license-key-generator](https://github.com/ugumerie/LicenseKey.Generator)
 - [twilo-whatsapp-app](https://github.com/ugumerie/twilo-whatsapp-app)
 - [facebook_clone](https://github.com/ugumerie/facebook_clone)
 - [clipz](https://github.com/ugumerie/clipz)
